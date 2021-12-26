@@ -1,9 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Erlangga's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Erlangga's Discord" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Erlangga's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.instagram.com/erlangga_da/">
+  <img align="left" alt="Erlangga's Discord" height="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 
 <br />
