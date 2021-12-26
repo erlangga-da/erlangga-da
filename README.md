@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Erlangga</h1>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erlangga-da" alt="erlangga-da" /></a></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  - 🔭 I’m currently working on Godot Npc AI
+</p>
 
 <!--
 **erlangga-da/erlangga-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
