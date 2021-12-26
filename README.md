@@ -1,19 +1,23 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Erlangga</h1>
+## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erlangga-da" alt="erlangga-da" /></a></p>
+#### I'm a Front-End Developer working in Bekasi, Indonesia.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  - 🔭 I’m currently working on Godot Npc AI
-</p>
+<br />
+
+## 🔭 I’m currently working on ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=erlangga-da&theme=tokyonight)](https://github.com/erlangga-da/erlangga-da)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=erlangga-da&theme=tokyonight)](https://github.com/erlangga-da/erlangga-da)
+
+### 📈 my github stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erlangga-da&show_icons=true&theme=tokyonight" alt="erlangga-da" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlangga-da&theme=tokyonight" alt="erlangga-da" /></p>
 
 <!--
 **erlangga-da/erlangga-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
