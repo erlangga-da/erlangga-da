@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/717569088662274060">
   <img align="left" alt="Erlangga's Discord" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/erlangga_da/">
