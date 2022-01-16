@@ -1,10 +1,17 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/erlangga_da/">
-  <img align="left" alt="Erlangga's Discord" height="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
 
+<a href="https://www.instagram.com/erlangga_da/">
+  <img align="left" alt="Erlangga's Discord" height="35px" src="https://icon-library.com/images/instagram-circle-icon-png/instagram-circle-icon-png-4.jpg"/>
+</a>
+<a href="https://sketchfab.com/erlangga_da">
+  <img align="left" height="35px" draggable="false" alt="" src="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/a81e1fd93fc053fed8a5f56640f886f8-v2.png">
+</a>
+<a href="https://dribbble.com/erlangga_da">
+  <img height="35px" draggable="false" alt="" src="https://cdn.dribbble.com/users/39/avatars/normal/f342d2c8d6677c536875e7de73e481ee.png?1582211833">
+</a>
 <br />
 <br />
+
 I'm a Front-End Developer working in Bekasi, Indonesia.
 
 <br />
