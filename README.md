@@ -43,3 +43,4 @@ I'm a Front-End Developer working in Bekasi, Indonesia.
 ### 🔭 I’m currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=Godot-LangNpc&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/erlangga-da/Godot-LangNpc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=Godot-Project&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/erlangga-da/Godot-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=base-apparel-coming-soon&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/erlangga-da/base-apparel-coming-soon)
