@@ -1,5 +1,5 @@
-<a href="https://www.buymeacoffee.com/erlangga" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
-<a href="https://trakteer.id/erlangga-da/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-8.png" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a>
+<a href="https://www.buymeacoffee.com/erlangga" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" alt="Buy Me A Coffee" style="height: 30px !important;" ></a>
+<a href="https://trakteer.id/erlangga-da/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-8.png" align="left" height="30" style="border: 0px;" alt="Trakteer Saya"></a>
 <br />
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
