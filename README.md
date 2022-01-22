@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/erlangga" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
+<a href="https://www.buymeacoffee.com/erlangga" target="_blank"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9ZXJsYW5nZ2Emc2l6ZT0zMDAmYmctaW1hZ2U9Ym1jJmJhY2tncm91bmQ9NUY3RkZG&creator=erlangga&design_code=1&design_color=%235F7FFF&slug=erlangga" alt="Buy Me A Coffee" style="width: 450px !important;" ></a>
 <a href="https://trakteer.id/erlangga-da/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-8.png" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a>
 <br />
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
