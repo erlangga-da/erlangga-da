@@ -17,7 +17,7 @@
 <br />
 <br />
 
-I'm a Front-End Developer working in Bekasi, Indonesia.
+I'm a junior UI/UX designer working in Bekasi, Indonesia.
 
 <br />
 
