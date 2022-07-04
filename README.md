@@ -3,7 +3,7 @@
 -->
 <br />
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there 🖐
 
 <a href="https://www.instagram.com/erlangga_da/">
   <img align="left" alt="Erlangga's Discord" height="35px" src="https://icon-library.com/images/instagram-circle-icon-png/instagram-circle-icon-png-4.jpg"/>
