@@ -44,7 +44,3 @@ I'm a junior UI/UX designer working in Bekasi, Indonesia.
 <img src="https://github-readme-stats.vercel.app/api?username=erlangga-da&show_icons=true&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true" alt="erlangga-da" />
 
 <br />
-
-### 🔭 I’m currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=Godot-LangNpc&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/erlangga-da/Godot-LangNpc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlangga-da&repo=Godot-Project&theme=tokyonight&bg_color=00000000&hide=bg-color&hide_border=true)](https://github.com/erlangga-da/Godot-Project)
