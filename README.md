@@ -17,7 +17,7 @@
 <br />
 <br />
 
-I'm a junior UI/UX designer working in Bekasi, Indonesia.
+I'm a UI/UX designer working in Bekasi, Indonesia.
 
 <br />
 
